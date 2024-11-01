@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sajad B ,an aspiring Game Developer and technical Artist.
+- 👋 Hi, I’m Sajad B ,an aspiring Game Developer and An Artist.
 - 👀 I’m interested in Computer Graphics and programming specially in Video Game Development.
 - 🌱 I’m currently working on a Video Game project and game engine project in my free time.
 - 💞️ I’m looking to collaborate on open source game engines and video games.
